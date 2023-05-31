@@ -1,12 +1,15 @@
 # Checker Board Game
-Play the classic game of Checkers with a computer player 💻
+Enjoy playing the classic game of Checkers against a computer player! 💻
 
-👀 Read more about Checkers: https://en.wikipedia.org/wiki/Checkers
+👀 Learn more about Checkers: https://en.wikipedia.org/wiki/Checkers
 
 ## Installation
-1. Download Proceesing: https://processing.org/
-2. Clone this repo
-3. Run `checker_game.pyde` in Processing
+Follow the steps below to install and run the Checker Board Game:
+
+1. Download and install Processing from the official website: https://processing.org/
+2. Clone this repository
+3. Open the `checker_game.pyde` file using Processing
 
 ## Game Interface
+
 <img src="images/interface.png" alt="GUI of Checkers" width="400" height="400">
